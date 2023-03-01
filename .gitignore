@@ -1,0 +1,6 @@
+
+The file to ignore
+
+# ignore all the .txt files
+
+*.txt
